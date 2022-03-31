@@ -3,7 +3,7 @@ import React from "react";
 
 const ReviewCard = ({ data }) => {
     return (
-        <div className="bg-primary-4 p-8 pb-5 space-y-6 shadow-lg shadow-primary-3 rounded">
+        <div className="bg-primary-4 p-10 space-y-6 shadow-lg shadow-primary-3 rounded">
             <div className="text-xs sm:text-sm">{data.review}</div>
 
             <div className="flex items-center space-x-2">

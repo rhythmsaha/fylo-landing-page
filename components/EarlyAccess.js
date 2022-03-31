@@ -17,7 +17,7 @@ const EarlyAccess = () => {
                     type="text"
                     className="w-full outline-none border-none px-4 py-4 lg:py-3 rounded-full text-black"
                 />
-                <button className="whitespace-nowrap px-4 py-4 lg:py-3 bg-gradient-to-r from-accent-1 to-accent-2 rounded-full font-bold font-railway text-sm tracking-widest w-full lg:w-80 lg:tracking-normal">
+                <button className="whitespace-nowrap px-4 py-4 lg:py-3 bg-gradient-to-r from-accent-1 to-accent-2 hover:from-accent-2 transition duration-300 rounded-full font-bold font-railway text-sm tracking-widest w-full lg:w-80 lg:tracking-normal">
                     Get Started For Free
                 </button>
             </div>

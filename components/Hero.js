@@ -29,7 +29,7 @@ const Hero = ({}) => {
                         collaborate with friends family, and co-workers.
                     </p>
 
-                    <button className="font-railway bg-gradient-to-r from-accent-1 to-accent-2 px-8 py-3 rounded-full w-64 font-semibold tracking-widest">
+                    <button className="font-railway bg-gradient-to-r from-accent-1 to-accent-2 px-8 py-3 rounded-full w-64 font-semibold tracking-widest hover:from-accent-2 transition duration-300">
                         Get Started
                     </button>
                 </div>
